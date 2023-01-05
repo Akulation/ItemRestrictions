@@ -37,6 +37,9 @@
     <Reference Include="com.rlabrecque.steamworks.net">
       <HintPath>libs\com.rlabrecque.steamworks.net.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>libs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Rocket.API">
       <HintPath>libs\Rocket.API.dll</HintPath>
     </Reference>
@@ -65,10 +68,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\RestrictCommand.cs" />
+    <Compile Include="Commands\UnrestrictCommand.cs" />
     <Compile Include="ItemRestrictions.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="Models\Restriction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

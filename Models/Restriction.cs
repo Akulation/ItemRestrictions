@@ -1,13 +1,8 @@
-﻿using System.Xml.Serialization;
-
-namespace ItemRestrictions.Models
+﻿namespace ItemRestrictions.Models
 {
     public class Restriction
     {
         public string PickupPermission { get; set; }
-
-        [XmlArrayItem("itemID")]
-
-        public ushort[] Items { get; set; }
+        public int itemID { get; set; }
     }
 }
