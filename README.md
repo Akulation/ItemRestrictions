@@ -11,8 +11,8 @@ Unturned Rocketmod Plugin that lets you restrict items
 - No MySQL required! It saves all restrictions in a JSON file.
 
 ## Commands / Permissions
-- /restrict <ItemID> <Permission> | `restrict`
-- /unrestrict <ItemID> | `unrestrict`
+- `/restrict <ItemID> <Permission>` | `restrict`
+- `/unrestrict <ItemID>` | `unrestrict`
  
 ## Configuration
 ```
