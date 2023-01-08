@@ -1,8 +1,5 @@
-# ItemRestrictions
+# ItemRestrictions ![GitHub all releases](https://img.shields.io/github/downloads/Akulation/ItemRestrictions/total?color=green&style=flat-square)
 Unturned Rocketmod Plugin that lets you restrict items
-
-## Download
-![GitHub all releases](https://img.shields.io/github/downloads/Akulation/ItemRestrictions/total?color=green&style=flat-square)
 
 # Features
 - You can create and remove restrictions using commands ingame, no need to configure any files!
