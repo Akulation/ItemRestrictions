@@ -16,5 +16,6 @@ Unturned Rocketmod Plugin that lets you restrict items
 ## Configuration
 ```
 <MessageColor>yellow</MessageColor>
+<DeleteItems>false</DeleteItems>
 ```
 
