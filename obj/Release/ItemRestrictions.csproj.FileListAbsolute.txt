@@ -1,0 +1,16 @@
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\ItemRestrictions.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\ItemRestrictions.pdb
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\Assembly-CSharp.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\com.rlabrecque.steamworks.net.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\Newtonsoft.Json.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\Rocket.API.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\Rocket.Core.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\Rocket.Unturned.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\SDG.NetTransport.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\bin\Release\UnityEngine.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\obj\Release\ItemRestrictions.csproj.CoreCompileInputs.cache
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\obj\Release\ItemRestrictions.csproj.CopyComplete
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\obj\Release\ItemRestrictions.dll
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\obj\Release\ItemRestrictions.pdb
+C:\Users\akula\Desktop\Unturned Plugin Projects\Projects\Completed\ItemRestrictions\obj\Release\ItemRestrictions.csproj.AssemblyReference.cache
